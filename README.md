@@ -39,4 +39,4 @@
 <img src="assets/24.jpg" width="100%">
 <img src="assets/25.png" width="100%">
 
-[⬆ Наверх](#содержание) | [Следующая страница (2) ➡](pages/page2.md)
+[⬆ Наверх](#page-1) | [Следующая страница (2) ➡](pages/page2.md)
