@@ -26,5 +26,8 @@
 <img src="../assets/69.jpg" width="100%">
 <img src="../assets/70.jpg" width="100%">
 <img src="../assets/71.jpg" width="100%">
+<img src="../assets/72.png" width="100%">
+<img src="../assets/73.png" width="100%">
+<img src="../assets/74.png" width="100%">
 
 [⬆ Наверх](#страница-3) | [⬅ На главную](../README.md)
